@@ -8,6 +8,8 @@ this is a paragraph. There are many idiosyncratic typing styles in between novic
 
 this  is a new paragraph.
 
+this is a new line.
+
 ---
 
 thank you  
