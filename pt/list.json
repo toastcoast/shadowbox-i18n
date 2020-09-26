@@ -1,0 +1,17 @@
+{
+  "group1": {
+    "one": "Único",
+    "two": "Segundo",
+    "three": "É terceiro"
+  },
+  "group2": {
+    "what": [
+      "Olá",
+      "Mundo"
+    ],
+    "how": [
+      "Boa noite",
+      "Lua"
+    ]
+  }
+}
